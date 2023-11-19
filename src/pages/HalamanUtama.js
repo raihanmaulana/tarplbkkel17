@@ -22,7 +22,6 @@ export default class LandingPage extends Component {
           About App
         </Button>
       </div>
-      // <button>Button 1</button> &nbsp;&nbsp;&nbsp; <button>Button 2</button>
     );
   }
 }

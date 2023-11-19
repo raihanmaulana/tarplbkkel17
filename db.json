@@ -1,0 +1,485 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Art"
+    },
+    {
+      "id": 2,
+      "nama": "Sport"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "N-01",
+      "nama": "PEC Friends #2263",
+      "harga": 31,
+      "is_ready": true,
+      "gambar": "Art1.png",
+      "category": {
+        "id": 1,
+        "nama": "Art"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "N-02",
+      "nama": "PEC Friends #2258",
+      "harga": 29,
+      "is_ready": true,
+      "gambar": "Art2.png",
+      "category": {
+        "id": 1,
+        "nama": "Art"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "N-03",
+      "nama": "CryptoPunk #1111",
+      "harga": 60,
+      "is_ready": true,
+      "gambar": "Art3.png",
+      "category": {
+        "id": 1,
+        "nama": "Art"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "N-04",
+      "nama": "CryptoPunk #1001",
+      "harga": 70,
+      "is_ready": true,
+      "gambar": "Art4.png",
+      "category": {
+        "id": 1,
+        "nama": "Art"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "N-05",
+      "nama": "Statue of LeBron",
+      "harga": 180,
+      "is_ready": true,
+      "gambar": "Sport1.png",
+      "category": {
+        "id": 2,
+        "nama": "Sport"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "N-06",
+      "nama": "MLB Champions Brett Gardner",
+      "harga": 120,
+      "is_ready": true,
+      "gambar": "Sport2.png",
+      "category": {
+        "id": 2,
+        "nama": "Sport"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "N-07",
+      "nama": "Michael Jordan sportPunks",
+      "harga": 110,
+      "is_ready": true,
+      "gambar": "Sport3.png",
+      "category": {
+        "id": 2,
+        "nama": "Sport"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "N-08",
+      "nama": "Rare Diego Maradona 2020-21",
+      "harga": 112,
+      "is_ready": true,
+      "gambar": "Sport4.png",
+      "category": {
+        "id": 2,
+        "nama": "Sport"
+      }
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "total_bayar": 60,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 60,
+          "product": {
+            "id": 3,
+            "kode": "N-03",
+            "nama": "CryptoPunk #1111",
+            "harga": 60,
+            "is_ready": true,
+            "gambar": "Art3.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "total_bayar": 60,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 60,
+          "product": {
+            "id": 3,
+            "kode": "N-03",
+            "nama": "CryptoPunk #1111",
+            "harga": 60,
+            "is_ready": true,
+            "gambar": "Art3.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "total_bayar": 60,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 60,
+          "product": {
+            "id": 3,
+            "kode": "N-03",
+            "nama": "CryptoPunk #1111",
+            "harga": 60,
+            "is_ready": true,
+            "gambar": "Art3.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "total_bayar": 29,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 29,
+          "product": {
+            "id": 2,
+            "kode": "N-02",
+            "nama": "PEC Friends #2258",
+            "harga": 29,
+            "is_ready": true,
+            "gambar": "Art2.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "total_bayar": 89,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 60,
+          "product": {
+            "id": 3,
+            "kode": "N-03",
+            "nama": "CryptoPunk #1111",
+            "harga": 60,
+            "is_ready": true,
+            "gambar": "Art3.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 29,
+          "product": {
+            "id": 2,
+            "kode": "N-02",
+            "nama": "PEC Friends #2258",
+            "harga": 29,
+            "is_ready": true,
+            "gambar": "Art2.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 2
+        }
+      ],
+      "id": 5
+    },
+    {
+      "total_bayar": 342,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 112,
+          "product": {
+            "id": 8,
+            "kode": "N-08",
+            "nama": "Rare Diego Maradona 2020-21",
+            "harga": 112,
+            "is_ready": true,
+            "gambar": "Sport4.png",
+            "category": {
+              "id": 2,
+              "nama": "Sport"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 120,
+          "product": {
+            "id": 6,
+            "kode": "N-06",
+            "nama": "MLB Champions Brett Gardner",
+            "harga": 120,
+            "is_ready": true,
+            "gambar": "Sport2.png",
+            "category": {
+              "id": 2,
+              "nama": "Sport"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 110,
+          "product": {
+            "id": 7,
+            "kode": "N-07",
+            "nama": "Michael Jordan sportPunks",
+            "harga": 110,
+            "is_ready": true,
+            "gambar": "Sport3.png",
+            "category": {
+              "id": 2,
+              "nama": "Sport"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 6
+    },
+    {
+      "total_bayar": 120,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 31,
+          "product": {
+            "id": 1,
+            "kode": "N-01",
+            "nama": "PEC Friends #2263",
+            "harga": 31,
+            "is_ready": true,
+            "gambar": "Art1.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 29,
+          "product": {
+            "id": 2,
+            "kode": "N-02",
+            "nama": "PEC Friends #2258",
+            "harga": 29,
+            "is_ready": true,
+            "gambar": "Art2.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 60,
+          "product": {
+            "id": 3,
+            "kode": "N-03",
+            "nama": "CryptoPunk #1111",
+            "harga": 60,
+            "is_ready": true,
+            "gambar": "Art3.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 7
+    },
+    {
+      "total_bayar": 31,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 31,
+          "product": {
+            "id": 1,
+            "kode": "N-01",
+            "nama": "PEC Friends #2263",
+            "harga": 31,
+            "is_ready": true,
+            "gambar": "Art1.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 8
+    },
+    {
+      "total_bayar": 31,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 31,
+          "product": {
+            "id": 1,
+            "kode": "N-01",
+            "nama": "PEC Friends #2263",
+            "harga": 31,
+            "is_ready": true,
+            "gambar": "Art1.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 9
+    },
+    {
+      "total_bayar": 180,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 180,
+          "product": {
+            "id": 5,
+            "kode": "N-05",
+            "nama": "Statue of LeBron",
+            "harga": 180,
+            "is_ready": true,
+            "gambar": "Sport1.png",
+            "category": {
+              "id": 2,
+              "nama": "Sport"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 10
+    },
+    {
+      "total_bayar": 402,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 180,
+          "product": {
+            "id": 5,
+            "kode": "N-05",
+            "nama": "Statue of LeBron",
+            "harga": 180,
+            "is_ready": true,
+            "gambar": "Sport1.png",
+            "category": {
+              "id": 2,
+              "nama": "Sport"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 110,
+          "product": {
+            "id": 7,
+            "kode": "N-07",
+            "nama": "Michael Jordan sportPunks",
+            "harga": 110,
+            "is_ready": true,
+            "gambar": "Sport3.png",
+            "category": {
+              "id": 2,
+              "nama": "Sport"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 112,
+          "product": {
+            "id": 8,
+            "kode": "N-08",
+            "nama": "Rare Diego Maradona 2020-21",
+            "harga": 112,
+            "is_ready": true,
+            "gambar": "Sport4.png",
+            "category": {
+              "id": 2,
+              "nama": "Sport"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 11
+    }
+  ]
+}
