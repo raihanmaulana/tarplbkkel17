@@ -503,6 +503,29 @@
         }
       ],
       "id": 12
+    },
+    {
+      "total_bayar": 31,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 31,
+          "product": {
+            "id": 1,
+            "kode": "N-01",
+            "nama": "PEC Friends #2263",
+            "harga": 31,
+            "is_ready": true,
+            "gambar": "Art1.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 13
     }
   ]
 }

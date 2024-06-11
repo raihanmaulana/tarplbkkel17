@@ -89,7 +89,7 @@ export default class Home extends Component {
               "\n",
             buttons: {
               cancel: "Batal",
-              
+
               tambah: true,
             },
           }).then((value) => {
