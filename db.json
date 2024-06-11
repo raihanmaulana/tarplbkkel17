@@ -107,7 +107,25 @@
       }
     }
   ],
-  "keranjangs": [],
+  "keranjangs": [
+    {
+      "jumlah": 1,
+      "total_harga": 60,
+      "product": {
+        "id": 3,
+        "kode": "N-03",
+        "nama": "CryptoPunk #1111",
+        "harga": 60,
+        "is_ready": true,
+        "gambar": "Art3.png",
+        "category": {
+          "id": 1,
+          "nama": "Art"
+        }
+      },
+      "id": 1
+    }
+  ],
   "pesanans": [
     {
       "total_bayar": 60,
@@ -526,6 +544,29 @@
         }
       ],
       "id": 13
+    },
+    {
+      "total_bayar": 31,
+      "produks": [
+        {
+          "jumlah": 1,
+          "total_harga": 31,
+          "product": {
+            "id": 1,
+            "kode": "N-01",
+            "nama": "PEC Friends #2263",
+            "harga": 31,
+            "is_ready": true,
+            "gambar": "Art1.png",
+            "category": {
+              "id": 1,
+              "nama": "Art"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 14
     }
   ]
 }
